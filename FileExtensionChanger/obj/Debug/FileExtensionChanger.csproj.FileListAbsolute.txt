@@ -1,9 +1,0 @@
-D:\OtherProgram\Rules\FileExtensionChanger\FileExtensionChanger\bin\Debug\FileExtensionChanger.exe.config
-D:\OtherProgram\Rules\FileExtensionChanger\FileExtensionChanger\bin\Debug\FileExtensionChanger.exe
-D:\OtherProgram\Rules\FileExtensionChanger\FileExtensionChanger\bin\Debug\FileExtensionChanger.pdb
-D:\OtherProgram\Rules\FileExtensionChanger\FileExtensionChanger\obj\Debug\FileExtensionChanger.csproj.AssemblyReference.cache
-D:\OtherProgram\Rules\FileExtensionChanger\FileExtensionChanger\obj\Debug\FileExtensionChanger.Properties.Resources.resources
-D:\OtherProgram\Rules\FileExtensionChanger\FileExtensionChanger\obj\Debug\FileExtensionChanger.csproj.GenerateResource.cache
-D:\OtherProgram\Rules\FileExtensionChanger\FileExtensionChanger\obj\Debug\FileExtensionChanger.csproj.CoreCompileInputs.cache
-D:\OtherProgram\Rules\FileExtensionChanger\FileExtensionChanger\obj\Debug\FileExtensionChanger.exe
-D:\OtherProgram\Rules\FileExtensionChanger\FileExtensionChanger\obj\Debug\FileExtensionChanger.pdb
